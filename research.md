@@ -34,24 +34,24 @@ British Machine Vision Conference BMVC, 2017. [[pdf]](https://arxiv.org/pdf/1709
 Kelsey Hawkins, **Shray Bansal**, Nam Vo, and Aaron Bobick.  
 International Conference on Robotics and Automation (ICRA), 2014. [[pdf]](http://www.prism.gatech.edu/~sbansal34/media/pdf/icra2014.pdf)
 
-Kelsey Hawkins, Nam Vo, **Shray Bansal**, and Aaron Bobick. **Probabilistic human action prediction and wait-sensitive planning for responsive human-robot collaboration**. Humanoid Robots (\textit{Humanoids}), 2013. [[pdf]](http://www.prism.gatech.edu/~sbansal34/media/pdf/humanoids13.pdf)
+Kelsey Hawkins, Nam Vo, **Shray Bansal**, and Aaron Bobick. **Probabilistic human action prediction and wait-sensitive planning for responsive human-robot collaboration**. Humanoid Robots (Humanoids), 2013. [[pdf]](http://www.prism.gatech.edu/~sbansal34/media/pdf/humanoids13.pdf)
 
 
 # Refereed Workshop
 
 **Attention Driven Dynamic Memory Maps**  
-Himanshu Sahni, **Shray Bansal**, and Charles Isbell 
+Himanshu Sahni, **Shray Bansal**, and Charles Isbell  
 ICLR Workshop on Bridging AI and Cognitive Science, 2020. [[pdf]](https://baicsworkshop.github.io/pdf/BAICS_18.pdf)
 
 **Interaction-Aware Planning via Nash Equilibria for Manipulation in a Shared Workspace**
-**Shray Bansal**, Mustafa Mukadam, and Charles Isbell.
+**Shray Bansal**, Mustafa Mukadam, and Charles Isbell  
 ICRA Workshop on Human Movement Science for Physical Human-Robot Collaboration, 2019. [[pdf]](http://hms2019icra.mit.edu/wp-content/uploads/2019/05/Bansal.pdf)
 
 **Cooperative Planning for Autonomous Lane Merging**  
-**Shray Bansal**, Akansel Cosgun, Alireza Nakhaei, and Kikuo Fujimura.  
+**Shray Bansal**, Akansel Cosgun, Alireza Nakhaei, and Kikuo Fujimura  
 IROS Workshop on Shared Autonomy, 2017. 
 [[pdf]](https://aiweb.techfak.uni-bielefeld.de/iros2017_workshop_shared_autonomy/bansal\%20Cooperative\%20Planning\%20for\%20Autonomous\%20Lane\%20Merging.pdf)
 
 **Modeling structured activity to support human-robot collaboration in the presence of task and sensor uncertainty**  
-Kelsey P. Hawkins, **Shray Bansal**, Nam Vo, and Aaron F. Bobick.  
+Kelsey P. Hawkins, **Shray Bansal**, Nam Vo, and Aaron F. Bobick  
 IROS Workshop on Cognitive Robotics Systems, 2013. [[pdf]](href{http://www.prism.gatech.edu/~sbansal34/media/pdf/iros13_ws.pdf)
