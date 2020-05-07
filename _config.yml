@@ -2,8 +2,6 @@
 title: Shray Bansal
 description: >-
   I am a PhD student in Computer Science at Georgia Tech.
-  He's writing in Bahasa about web technology and experience as a journal 
-  for documentation things that he learned, meet him <a href="https://github.com/piharpi" target="_blank" rel="noopener">@github</a>.
 lang: en-US
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
 repo: https://github.com/piharpi/mahendrata.now.sh
@@ -11,13 +9,28 @@ mode: dark # default theme "dark" | "light"
 
 # Profile settings
 author:
-  name: Klisé Theme
+  name: Shray Bansal
   bio: >-
-    The minimalist Jekyll theme, light and dark mode support, for running a personal site and blog, 
-    meet Klisé theme at <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">@github</a>.
+    <p>
+    I am a Computer Science PhD student at the Georgia Institute of Technology. 
+    I am advised by <a href="https://www.cc.gatech.edu/fac/Charles.Isbell/">Charles Isbell</a> and 
+    <a href="https://howard.ece.gatech.edu/">Ayanna Howard</a>. 
+    I also completed an MS from Georgia Tech in 2014 where I was mentored by 
+    <a href="https://www.cc.gatech.edu/~afb/">Aaron Bobick</a>. 
+    </p>
+
+    <p>
+    The focus of my thesis is on robot-human interaction in parallel play activities. 
+    I'm also generally interested in AI, machine learning, robotics and computer vision. 
+    </p>
+
+    <p>
+    I also have a Bachelor's degree in Computer Engineering from Delhi College of Engineering in New Delhi, India. 
+    </p>
+
   username: username
   email: your-email@email.com
-  avatar: /assets/img/avatar.jpg
+  avatar: /assets/img/face.jpg
 
 # Url settings
 url: "https://klise.now.sh"
