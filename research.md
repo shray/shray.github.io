@@ -18,7 +18,7 @@ Following is a list of my publications. Citations are available at [Google Schol
 Robotics: Science and Systems (RSS) 2020. [pdf - coming soon] 
 
 **Learning to Find Common Objects Across Few Image Collections**  
-Amirreza Shaban, Amir Rahimi, **Shray Bansal**, Steven Gould, Byron Boots, and Richard Hartley.  
+Amirreza Shaban, Amir Rahimi, **Shray Bansal**, Stephen Gould, Byron Boots, and Richard Hartley.  
 IEEE International Conference on Computer Vision (ICCV) 2019. [[pdf]](https://arxiv.org/pdf/1904.12936.pdf)
 
 **Collaborative Planning for Autonomous Lane Merging**  
