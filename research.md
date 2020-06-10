@@ -18,7 +18,7 @@ Following is a list of my publications. Citations are available at [Google Schol
 **Planning for Human-Robot Parallel Play via Bayesian Nash Equilibrium Inference**  
 **Shray Bansal**, Jin Xu, Ayanna Howard, and Charles Isbell  
 Robotics: Science and Systems (RSS) 2020.   
-[pdf - coming soon] [[code]](https://github.com/shray/bayes-nash) [[project-page]]()
+[pdf - coming soon] [[code]](https://github.com/shray/bayes-nash) [[project-page]](bayesnash)
 
 **Learning to Find Common Objects Across Few Image Collections**  
 Amirreza Shaban, Amir Rahimi, **Shray Bansal**, Stephen Gould, Byron Boots, and Richard Hartley.  

@@ -1,12 +1,10 @@
 ---
-title:
+title: A Bayesian Framework for Nash Equilibrium Inference in Human-Robot Parallel Play
 permalink: research/bayesnash/
 layout: page
 comments: false
 ---
 
-
-# A Bayesian Framework for Nash Equilibrium Inference in Human-Robot Parallel Play
  <img
     src="/assets/img/two_nash_ex.png"
     alt="Two Nash Equilibrium"
@@ -16,11 +14,20 @@ We consider shared workspace scenarios with humans and robots acting to achieve 
 
 <span style="color:red">Accepted at RSS 2020!</span>
 
-[[PDF]](/assets/papers/bansal20bayesian.pdf) [[code]](https://github.com/shray/bayes-nash) [[arXiv]]()
+
+<button>
+	<a href="/assets/papers/bansal20bayesian.pdf">pdf</a>
+</button>
+<button>
+	<a href="https://github.com/shray/bayes-nash">code</a>
+</button>
+<button>
+	<a href="">arXiv</a>
+</button>
 
 <details>
 	<summary>
-		<a>[bibTeX]</a>
+		bibTeX
 	</summary>
 	<p>
 	@inproceedings{bansal2020framework,  
