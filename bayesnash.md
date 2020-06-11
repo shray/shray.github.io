@@ -22,7 +22,7 @@ We consider shared workspace scenarios with humans and robots acting to achieve 
 	<a href="https://github.com/shray/bayes-nash">code</a>
 </button>
 <button>
-	<a href="">arXiv</a>
+	<a href="https://arxiv.org/abs/2006.05729">arXiv</a>
 </button>
 
 <details>
