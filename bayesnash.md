@@ -30,11 +30,15 @@ We consider shared workspace scenarios with humans and robots acting to achieve 
 		bibTeX
 	</summary>
 	<p>
-	@inproceedings{bansal2020framework,  
-  	title={A Bayesian Framework for Nash Equilibrium Inference in Human-Robot Parallel Play.},  
-  	author={Bansal, Shray and Xu, Jin and Howard, Ayanna and Isbell, Charles},  
-  	booktitle={Robotics: Science and Systems},  
-  	year={2020}
-	}
+	@INPROCEEDINGS{Bansal-RSS-20, 
+    AUTHOR    = {Shray Bansal AND Jin Xu AND Ayana Howard AND Charles Isbell}, 
+    TITLE     = {{A Bayesian Framework for Nash Equilibrium Inference in Human-Robot Parallel Play}}, 
+    BOOKTITLE = {Proceedings of Robotics: Science and Systems}, 
+    YEAR      = {2020}, 
+    ADDRESS   = {Corvalis, Oregon, USA}, 
+    MONTH     = {July}, 
+    DOI       = {10.15607/RSS.2020.XVI.042} 
+} 
+  
 </p>
 </details>
