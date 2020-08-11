@@ -8,8 +8,6 @@ comments: false
 
 Following is a list of my publications. Citations are available at [Google Scholar](https://scholar.google.com/citations?user=e-GEqxoAAAAJ&hl=en).
 
-[/# Preprints/]
-
 # Conference
 **Supportive Actions for Manipulation in Human-Robot Coworker Teams**  
 **Shray Bansal**, Rhys Newbury, Wesley Chan, Akansel Cosgun, Aimee Allen, Dana Kulić, Tom Drummond, and Charles Isbell.  
