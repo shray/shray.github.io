@@ -8,13 +8,14 @@ comments: false
 
 Following is a list of my publications. Citations are available at [Google Scholar](https://scholar.google.com/citations?user=e-GEqxoAAAAJ&hl=en).
 
-# Preprints
-**Supportive Actions for Manipulation in Human-Robot Coworker Teams**  
-**Shray Bansal**, Rhys Newbury, Wesley Chan, Akansel Cosgun, Aimee Allen, Dana Kulić, Tom Drummond, and Charles Isbell.  
-*Under review* at IROS 2020.  
-[[arxiv]](https://arxiv.org/abs/2005.00769)
+[/# Preprints/]
 
 # Conference
+**Supportive Actions for Manipulation in Human-Robot Coworker Teams**  
+**Shray Bansal**, Rhys Newbury, Wesley Chan, Akansel Cosgun, Aimee Allen, Dana Kulić, Tom Drummond, and Charles Isbell.  
+Accepted at IROS 2020.  
+[[arxiv]](https://arxiv.org/abs/2005.00769)
+
 **Planning for Human-Robot Parallel Play via Bayesian Nash Equilibrium Inference**  
 **Shray Bansal**, Jin Xu, Ayanna Howard, and Charles Isbell  
 Robotics: Science and Systems (RSS) 2020.   
