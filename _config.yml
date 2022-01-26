@@ -21,7 +21,8 @@ author:
 
     <p>
     The focus of my thesis is on robot-human interaction in parallel play activities. 
-    I'm also generally interested in AI, machine learning, robotics and computer vision. 
+    I am interested in game theory, multiagent systems and human-AI coordination.
+    <!-- I'm also generally interested in AI, machine learning, robotics and computer vision. -->
     </p>
 
     <p>
@@ -30,7 +31,7 @@ author:
 
   username: username
   email: your-email@email.com
-  avatar: /assets/img/face.jpg
+  avatar: /assets/img/face3.jpg
 
 # Url settings
 url: "https://klise.now.sh"

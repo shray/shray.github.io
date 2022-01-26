@@ -8,10 +8,16 @@ comments: false
 
 Following is a list of my publications. Citations are available at [Google Scholar](https://scholar.google.com/citations?user=e-GEqxoAAAAJ&hl=en).
 
+# Journal
+**Bayes–Nash: Bayesian inference for Nash equilibrium selection in human-robot parallel play**  
+**Shray Bansal**, Jin Xu, Ayanna Howard, and Charles Isbell  
+Journal on Autonomous Robots, 2021.  
+[[paper]](https://link.springer.com/article/10.1007/s10514-021-10023-8)
+
 # Conference
 **Supportive Actions for Manipulation in Human-Robot Coworker Teams**  
 **Shray Bansal**, Rhys Newbury, Wesley Chan, Akansel Cosgun, Aimee Allen, Dana Kulić, Tom Drummond, and Charles Isbell.  
-Accepted at IROS 2020.  
+IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2020.  
 [[arxiv]](https://arxiv.org/abs/2005.00769)
 
 **Planning for Human-Robot Parallel Play via Bayesian Nash Equilibrium Inference**  
@@ -45,6 +51,11 @@ Kelsey Hawkins, Nam Vo, **Shray Bansal**, and Aaron Bobick. **Probabilistic huma
 
 
 # Refereed Workshop
+
+**Bayesian Inference for Human-Robot Coordination in Parallel Play**  
+**Shray Bansal**, Jin Xu, Ayanna Howard, and Charles Isbell  
+Workshop on Cooperative AI at NeurIPS, 2021.  
+[[pdf]](https://drive.google.com/file/d/18hiAEYkVHb38Fam-YYDUhF6GbEEg5nfF/view)
 
 **Attention Driven Dynamic Memory Maps**  
 Himanshu Sahni, **Shray Bansal**, and Charles Isbell  
